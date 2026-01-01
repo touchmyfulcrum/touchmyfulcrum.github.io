@@ -7,8 +7,9 @@
 
 ## 🎨 Design & UI/UX
 - [ ] **Define Design Direction**
-    - [ ] Determine core aesthetic (e.g., Brutalist, Minimalist, Retro/Terminal, Magazine-style, Interactive/Game-like).
-    - [ ] Select color palette and typography.
+    - [x] Determine core aesthetic: **Urban Cyber-Swiss**.
+        - Fusion of Cyberpunk (gritty, tech-focused, neon accents) and Swiss Style (strict grids, clean typography, minimalism).
+    - [ ] Define Color Palette: Dark grey/black base, high-contrast white text, specific neon accent (e.g., Acid Green or Electric Blue).
 - [ ] **Prototyping**
     - [ ] Sketch layout concepts.
     - [ ] Create mockups for mobile and desktop views.
